@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Intro App</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">SELESAI</string>
+
+    <string name="slide_1_title">Intro App</string>
+    <string name="slide_1_desc">Deskripsi Intro App.</string>
+
+    <string name="slide_2_title">Gambar</string>
+    <string name="slide_2_desc">Aplikasi ini dilengkapi dengan gambar agar mudah dipahami.</string>
+
+    <string name="slide_3_title">Deskripsi</string>
+    <string name="slide_3_desc">Selain dilengkapi dengan gambar, dilengkapi pula dengan deskripsi penjelasan.</string>
+
+    <string name="slide_4_title">Menu Slider</string>
+    <string name="slide_4_desc">Pengguna dapat membuka halaman lain dengan hanya menggesernya tanpa harus keluar dari halaman terpilih.</string>
+
+</resources>
